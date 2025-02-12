@@ -148,7 +148,7 @@
                     "@ondc/org/TAT": "P4D",
                     "start": {
                         "location": {
-                            "id": "L1",
+                            "id": "695581_681",
                             "descriptor": {
                                 "name": "QWQER ONDC Store"
                             },
@@ -266,7 +266,7 @@
                     },
                     "end": {
                         "location": {
-                            "id": "L1",
+                            "id": "695581_681",
                             "descriptor": {
                                 "name": "QWQER ONDC Store"
                             },
